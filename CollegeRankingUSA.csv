@@ -1,0 +1,347 @@
+Harvard University, 1
+Massachusetts Institute of Technology, 2
+Stanford University, 3
+Princeton University, 4
+Columbia University, 5
+University of Chicago, 6
+University of Pennsylvania, 7
+Yale University, 8
+California Institute of Technology, 9
+University of California Berkeley, 10
+Cornell University, 11
+University of Michigan Ann Arbor, 12
+Johns Hopkins University, 13
+Northwestern University, 14
+University of California Los Angeles, 15
+Duke University, 16
+University of Illinois at Urbana–Champaign, 17
+University of Washington - Seattle, 18
+University of Wisconsin–Madison, 19
+New York University, 20
+University of Texas at Austin, 21
+University of California San Diego, 22
+University of California San Francisco, 23
+University of North Carolina at Chapel Hill, 24
+Dartmouth College, 25
+University of Minnesota - Twin Cities, 26
+Washington University in St. Louis, 27
+Rockefeller University, 28
+Rutgers University–New Brunswick, 29
+University of Southern California, 30
+University of California Davis, 31
+Vanderbilt University, 32
+Pennsylvania State University, 33
+Ohio State University, 34
+Purdue University, 35
+University of Texas Southwestern Medical Center, 36
+Brown University, 37
+University of Colorado Boulder, 38
+University of Virginia, 39
+University of Pittsburgh, 40
+Texas A&M University College Station, 41
+University of Maryland College Park, 42
+Georgia Institute of Technology, 43
+University of California Irvine, 44
+University of Rochester, 45
+Carnegie Mellon University, 46
+University of Florida, 47
+University of Arizona, 48
+Boston University, 49
+University of California Santa Barbara, 50
+University of Texas MD Anderson Cancer Center, 51
+Indiana University Bloomington, 52
+University of Utah, 53
+Emory University, 54
+Baylor College of Medicine, 55
+Case Western Reserve University, 56
+Tufts University, 57
+University of Iowa, 58
+Michigan State University, 59
+Rice University, 60
+University of Colorado Anschutz Medical Campus, 61
+University of Massachusetts Amherst, 62
+Iowa State University, 63
+University of Notre Dame, 64
+Icahn School of Medicine at Mount Sinai, 65
+University of Alabama at Birmingham, 66
+Arizona State University, 67
+University of Kansas, 68
+North Carolina State University, 69
+University of Connecticut, 70
+Stony Brook University, 71
+Brandeis University, 72
+University of Georgia, 73
+Yeshiva University, 74
+The Scripps Research Institute, 75
+University of Illinois at Chicago, 76
+University of Missouri–Columbia, 77
+University of Miami, 78
+Georgetown University, 79
+University of Cincinnati, 80
+Wake Forest University, 81
+University of California Riverside, 82
+University of Texas Health Science Center at Houston, 83
+University of Tennessee Knoxville, 84
+Virginia Commonwealth University, 85
+Colorado State University, 86
+University of Houston, 87
+Oregon Health & Science University, 88
+Oregon State University, 89
+Virginia Tech, 90
+Florida State University, 91
+University of Massachusetts Medical School, 92
+University of California Santa Cruz, 93
+University of Maryland Baltimore, 94
+University at Buffalo, 95
+University of South Florida, 96
+Wayne State University, 97
+University of Delaware, 98
+University of Kentucky, 99
+Louisiana State University, 100
+University of New Mexico, 101
+University of Nebraska–Lincoln, 102
+Washington State University, 103
+George Washington University, 104
+Southern Methodist University, 105
+Northeastern University, 106
+University of South Carolina - Columbia, 107
+City College of New York, 108
+Temple University, 109
+Albert Einstein College of Medicine, 110
+Drexel University, 111
+University of Oregon, 112
+Medical University of South Carolina, 113
+University of Oklahoma Norman, 114
+University of Texas at Dallas, 115
+University at Albany SUNY, 116
+Amherst College, 117
+Indiana University – Purdue University Indianapolis, 118
+Texas Tech University, 119
+Thomas Jefferson University, 120
+Kansas State University, 121
+University of Mississippi, 122
+Tulane University, 123
+Saint Louis University, 124
+University of Texas Health Science Center at San Antonio, 125
+Medical College of Wisconsin, 126
+University of Colorado Denver, 127
+University of Vermont, 128
+University of Alabama - Tuscaloosa, 129
+Syracuse University, 130
+University of Central Florida, 131
+University of Louisville, 132
+Florida International University, 133
+George Mason University, 134
+Oklahoma State University, 135
+West Virginia University, 136
+Baylor University, 137
+Lehigh University, 138
+University of Hawaii at Manoa, 139
+Rush University, 140
+University of Tennessee Health Science Center, 141
+Swarthmore College, 142
+Boston College, 143
+Colorado School of Mines, 144
+Georgia State University, 145
+University of Arkansas - Fayetteville, 146
+Rensselaer Polytechnic Institute, 147
+Clemson University, 148
+Mayo Clinic College of Medicine and Science, 149
+San Diego State University, 150
+University of Texas at Arlington, 151
+Illinois Institute of Technology, 152
+Auburn University, 153
+University of Wisconsin–Milwaukee, 154
+College of William & Mary, 155
+University of Nebraska Medical Center, 156
+Haverford College, 157
+Brigham Young University, 158
+Utah State University, 159
+Cold Spring Harbor Laboratory, 160
+University of New Hampshire, 161
+Binghamton University, 162
+Loyola University Chicago, 163
+University of Texas Medical Branch, 164
+University of Wyoming, 165
+University of Texas at San Antonio, 166
+University of Maine Orono, 167
+University of Nevada Reno, 168
+University of Oklahoma Health Sciences Center, 169
+University of North Texas Denton, 170
+Mississippi State University, 171
+University of Arkansas for Medical Sciences, 172
+University of Missouri-Kansas City, 173
+Montana State University - Bozeman, 174
+University of Maryland Baltimore County, 175
+University of Massachusetts Boston, 176
+Antioch College, 177
+University of Alaska Fairbanks, 178
+Augusta University, 179
+SUNY Downstate Medical Center, 180
+University of Idaho, 181
+Kent State University, 182
+University of Montana, 183
+Ohio University, 184
+Northern Illinois University, 185
+University of North Carolina at Charlotte, 186
+University of Rhode Island, 187
+University of Denver, 188
+University of Toledo, 189
+Miami University, 190
+Old Dominion University, 191
+University of Nevada Las Vegas, 192
+Rutgers University–Newark, 193
+Wesleyan University, 194
+University of California Merced, 195
+University of Louisiana at Lafayette, 196
+Uniformed Services University of the Health Sciences, 197
+Northern Arizona University, 198
+Southern Illinois University Carbondale, 199
+University of Akron, 200
+Portland State University, 201
+New Mexico State University, 202
+East Carolina University, 203
+Michigan Technological University, 204
+North Dakota State University, 205
+Oberlin College, 206
+Missouri University of Science and Technology, 207
+Pepperdine University, 208
+Claremont McKenna College, 209
+Bucknell University, 210
+Sanford Burnham Prebys Medical Discovery Institute, 211
+Colgate University, 212
+New Jersey Institute of Technology, 213
+Pomona College, 214
+University of Memphis, 215
+University of Texas Rio Grande Valley, 216
+Florida Institute of Technology, 217
+Hunter College, 218
+American University, 219
+Creighton University, 220
+Louisiana Tech University, 221
+United States Naval Academy, 222
+University of Texas at El Paso, 223
+SUNY Upstate Medical University, 224
+Babson College, 225
+Manhattan College, 226
+Villanova University, 227
+Rochester Institute of Technology, 228
+Smith College, 229
+Fordham University, 230
+University of Puerto Rico at Mayagüez, 231
+Florida Atlantic University, 232
+Worcester Polytechnic Institute, 233
+University of North Carolina at Greensboro, 234
+College of the Holy Cross, 235
+Loma Linda University, 236
+University of Massachusetts Lowell, 237
+California State University Fresno, 238
+South Dakota State University, 239
+San Francisco State University, 240
+Wright State University, 241
+Marquette University, 242
+New York Medical College, 243
+Hofstra University, 244
+Howard University, 245
+Bowdoin College, 246
+United States Military Academy, 247
+Stevens Institute of Technology, 248
+Santa Clara University, 249
+University of Missouri-St. Louis, 250
+University of Dayton, 251
+California Polytechnic State University San Luis Obispo, 252
+Clark University, 253
+Oakland University, 254
+University of North Dakota, 255
+Albany Medical College, 256
+Menlo College, 257
+University of Alabama in Huntsville, 258
+University of Puerto Rico Medical Sciences Campus, 259
+Catholic University of America, 260
+Texas State University, 261
+Boise State University, 262
+SUNY College of Environmental Science and Forestry, 263
+Bowling Green State University, 264
+California State University Fullerton, 265
+Hampton University, 266
+California State University Northridge, 267
+San Jose State University, 268
+Western Michigan University, 269
+University of South Alabama, 270
+Carleton College, 271
+Grinnell College, 272
+Williams College, 273
+California State University Long Beach, 274
+Clarkson University, 275
+Fairfield University, 276
+University of South Dakota, 277
+University of Minnesota Duluth, 278
+University of Southern Mississippi, 279
+Baruch College, 280
+Texas Tech University Health Sciences Center, 281
+Nova Southeastern University, 282
+University of San Francisco, 283
+Ball State University, 284
+Central Michigan University, 285
+Illinois State University, 286
+Texas Christian University, 287
+University of Tulsa, 288
+Montclair State University, 289
+DePaul University, 290
+Queens College City University of New York, 291
+Utah Valley University, 292
+Eastern Virginia Medical School, 293
+Trinity University, 294
+Ohio Wesleyan University, 295
+Cooper Union, 296
+Claremont Graduate University, 297
+Cleveland State University, 298
+Georgia Southern University, 299
+University of Massachusetts Dartmouth, 300
+Brooklyn College, 301
+Rowan University, 302
+University of North Carolina Wilmington, 303
+Western Washington University, 304
+California State University Los Angeles, 305
+University of New Orleans, 306
+Chapman University, 307
+College of Charleston, 308
+Jackson State University, 309
+James Madison University, 310
+Naval Postgraduate School, 311
+St. John's University, 312
+Marshall University, 313
+Appalachian State University, 314
+South Dakota School of Mines and Technology, 315
+University of Arkansas at Little Rock, 316
+Idaho State University, 317
+New Mexico Institute of Mining and Technology, 318
+Union College, 319
+Washington and Lee University, 320
+California State University Sacramento, 321
+University of Puerto Rico Río Piedras Campus, 322
+Hamilton College, 323
+East Tennessee State University, 324
+Towson University, 325
+Kennesaw State University, 326
+Wellesley College, 327
+Franklin & Marshall College, 328
+Embry-Riddle Aeronautical University, 329
+University of Alaska Anchorage, 330
+Florida Agricultural and Mechanical University, 331
+Drew University, 332
+Kettering University, 333
+Duquesne University, 334
+College of Staten Island, 335
+University of Richmond, 336
+Wichita State University, 337
+Rosalind Franklin University of Medicine and Science, 338
+University of Colorado Colorado Springs, 339
+University of San Diego, 340
+Reed College, 341
+Northeast Ohio Medical University, 342
+Sam Houston State University, 343
+University of Hawaii at Hilo, 344
+University of North Florida, 345
+Trinity College, 346
+Sonoma State University, 347
